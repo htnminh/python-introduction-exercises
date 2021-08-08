@@ -1,0 +1,1 @@
+f = lambda a, b, c: max(a, b, c)
