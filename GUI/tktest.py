@@ -50,3 +50,5 @@ button = tk.Button(
     command = start_sum
 )
 button.pack()
+
+window.mainloop()
